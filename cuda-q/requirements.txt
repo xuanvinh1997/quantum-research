@@ -1,0 +1,10 @@
+# Core dependencies
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+
+# Optional: CUDA-Q for actual quantum simulation (install with: pip install cudaq)
+# cudaq>=0.8.0
+
+# Optional: PySCF for quantum chemistry calculations
+# pyscf>=2.3.0
